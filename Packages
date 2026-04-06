@@ -1,5 +1,21 @@
 Package: com.dth.dynamicnotch
 Version: 1.0.0-829+debug
+Architecture: iphoneos-arm64e
+Maintainer: HieuDuongIT
+Installed-Size: 1660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Filename: ./debs/com.dth.dynamicnotch_1.0.0-829+debug_iphoneos-arm64e.deb
+Size: 313678
+MD5sum: ec475ae17ae2128ff3a2cffd17285f00
+SHA1: f852764986182f68457209485c04d7a445ac0ab5
+SHA256: 1212ea564c6d4bdde33cd9148405afdb2dcf8b0bb101e8a39cf37fb4bab63208
+Section: Tweaks
+Description: Dynamic Island cho các thiết bị tai thỏ.
+Author: HieuDuongIT
+Name: DynamicNotch
+
+Package: com.dth.dynamicnotch
+Version: 1.0.0-829+debug
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 1660
