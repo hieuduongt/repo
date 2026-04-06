@@ -12,7 +12,7 @@ SHA256: 1212ea564c6d4bdde33cd9148405afdb2dcf8b0bb101e8a39cf37fb4bab63208
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
-Name: DynamicNotch
+Name: DynamicNotch(Roothide)
 
 Package: com.dth.dynamicnotch
 Version: 1.0.0-829+debug
@@ -28,5 +28,5 @@ SHA256: 1d5c3a4986bea8622c57992995b18561ac42efc8698f41f170f85437c2aaef3f
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
-Name: DynamicNotch
+Name: DynamicNotch(Rootless)
 
