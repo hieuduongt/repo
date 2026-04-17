@@ -2,15 +2,15 @@ Package: com.dth.dynamicnotch
 Version: 1.0.1+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1052
+Installed-Size: 1184
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Filename: ./debs/com.dth.dynamicnotch_1.0.1+roothide_iphoneos-arm64e.deb
-Size: 147246
-MD5sum: 09fcca8646d1a85977977a2be9503323
-SHA1: 0d9ee2336ea81ca2621fa2aa942c4cb224dc823c
-SHA256: 1a6a966a2f48af266149839ac2d7b0c3581f27940796be5722cd7a55d5496eac
+Size: 184052
+MD5sum: d5a28733d2f7308f2e6baa874cb18275
+SHA1: 6d36f2b56704d94a4d0bd29af1e1ec7770ed390c
+SHA256: b9b50f428cdd53fcd8ad3d20fd45d76765bb7241a3ff501ba155ce0471715159
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
@@ -20,15 +20,15 @@ Package: com.dth.dynamicnotch
 Version: 1.0.1+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1052
+Installed-Size: 1184
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Filename: ./debs/com.dth.dynamicnotch_1.0.1+rootless_iphoneos-arm64.deb
-Size: 148604
-MD5sum: e1c1a10f5a977f8244bcab9a9661092c
-SHA1: 5ac214bd67392155646fa83f968ec6cf63358049
-SHA256: 6bd8058ca1869db1c350ae6176774f8ed54fe453c73bf04183ea636c6394000c
+Size: 184566
+MD5sum: 62b0b5853ce0c22e836cf6c763720f5b
+SHA1: 098a6237ec9867138f7d9845470922006b6450a3
+SHA256: 0b07458cd8865b44a6d735f56dc3755d258850fd0ff267c5900431d512d9bc60
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
