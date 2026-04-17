@@ -1,32 +1,36 @@
 Package: com.dth.dynamicnotch
-Version: 1.0.0-835+debug
-Architecture: iphoneos-arm64
-Maintainer: HieuDuongIT
-Installed-Size: 1688
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
-Filename: ./debs/dynamicNotch-rootless.deb
-Size: 248436
-MD5sum: 76edbf2b8f0d9974fb308c5085df175b
-SHA1: 945bd716d3e16710ae63e7413e5066a5392239db
-SHA256: 20da6c314664a8f81ba581e58acee8980ea10427e127cdd5c2b21a4d57f57140
-Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ.
-Author: HieuDuongIT
-Name: DynamicNotch(Rootless)
-
-Package: com.dth.dynamicnotch-roothide
-Version: 1.0.0-829+debug
+Version: 1.0.1+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1660
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
-Filename: ./debs/dynamicNotch-roothide.deb
-Size: 223036
-MD5sum: c0a1a8f7c07b37cdefb481b6fb0ee94d
-SHA1: f05301ed3c70b69268a83e6c96a399485bd091bf
-SHA256: 4920552e267bbd02c4eee0b42be0d5da6d7260d380ee4065afa1fb7214ba81fa
+Installed-Size: 1052
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
+Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
+Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
+Filename: ./debs/com.dth.dynamicnotch_1.0.1+roothide_iphoneos-arm64e.deb
+Size: 147246
+MD5sum: 09fcca8646d1a85977977a2be9503323
+SHA1: 0d9ee2336ea81ca2621fa2aa942c4cb224dc823c
+SHA256: 1a6a966a2f48af266149839ac2d7b0c3581f27940796be5722cd7a55d5496eac
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
-Name: DynamicNotch(Roothide)
+Name: DynamicNotch
+
+Package: com.dth.dynamicnotch
+Version: 1.0.1+rootless
+Architecture: iphoneos-arm64
+Maintainer: HieuDuongIT
+Installed-Size: 1052
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
+Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
+Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
+Filename: ./debs/com.dth.dynamicnotch_1.0.1+rootless_iphoneos-arm64.deb
+Size: 148604
+MD5sum: e1c1a10f5a977f8244bcab9a9661092c
+SHA1: 5ac214bd67392155646fa83f968ec6cf63358049
+SHA256: 6bd8058ca1869db1c350ae6176774f8ed54fe453c73bf04183ea636c6394000c
+Section: Tweaks
+Description: Dynamic Island cho các thiết bị tai thỏ.
+Author: HieuDuongIT
+Name: DynamicNotch
 
