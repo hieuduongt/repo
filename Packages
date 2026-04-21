@@ -1,36 +1,36 @@
 Package: com.dth.dynamicnotch
-Version: 1.0.4+roothide
+Version: 1.0.5+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1248
+Installed-Size: 1348
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.0.4+roothide_iphoneos-arm64e.deb
-Size: 198868
-MD5sum: 35aa2211742adcef4ceb5f50f3b261d5
-SHA1: 65ed211b60206e25ab0a4d773a78f6e3720fe91c
-SHA256: 6280a27fb46bd23b68b62d140e7879661db6285d32e783c857149acd8caaa7de
+Filename: ./debs/com.dth.dynamicnotch_1.0.5+roothide_iphoneos-arm64e.deb
+Size: 221566
+MD5sum: 246c24e81528a0631e02cdb00809554d
+SHA1: fcfd79ddf9cd0c3c4a855eecc5c577d6f5c65258
+SHA256: 5355692fbe6c018248c7d6bf014f9a5461661b326fbb47e24c21182eea0db164
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.0.5
 Author: HieuDuongIT
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.0.4+rootless
+Version: 1.0.5+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1248
+Installed-Size: 1348
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.0.4+rootless_iphoneos-arm64.deb
-Size: 198636
-MD5sum: 18b9403394269e67a738406f7bb95971
-SHA1: 63234f7962373f55e1ca7a9f6dd8576cda530a4e
-SHA256: e42fd29cf442ef82515bfc703835c288e4cd069ff5f2e087315662c545195915
+Filename: ./debs/com.dth.dynamicnotch_1.0.5+rootless_iphoneos-arm64.deb
+Size: 222246
+MD5sum: 85354588f23a738a417ee7cbf8c1d7ce
+SHA1: 858b6467017050de684af5810d81b958e3dbdb8b
+SHA256: 1dc1d068f6ea8bc966ad20dcfa778dc60daa1216a94d11d89e6dd4e152a6cd58
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.0.5
 Author: HieuDuongIT
 Name: DynamicNotch
 
