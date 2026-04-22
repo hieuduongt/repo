@@ -1,36 +1,38 @@
 Package: com.dth.dynamicnotch
-Version: 1.0.5+roothide
+Version: 1.0.6+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1348
+Installed-Size: 1380
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.0.5+roothide_iphoneos-arm64e.deb
-Size: 221566
-MD5sum: 246c24e81528a0631e02cdb00809554d
-SHA1: fcfd79ddf9cd0c3c4a855eecc5c577d6f5c65258
-SHA256: 5355692fbe6c018248c7d6bf014f9a5461661b326fbb47e24c21182eea0db164
+Filename: ./debs/com.dth.dynamicnotch_1.0.6+roothide_iphoneos-arm64e.deb
+Size: 233320
+MD5sum: e2ca90bdef73fd9d629ea50fe16b42c8
+SHA1: db82845eab54735a3e96be5ff932ccd3c6bd22b4
+SHA256: 16a67ef2df2212037239bff427d52a40045a4ec8fc30dbb76823adb812633b13
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.0.5
+Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
+Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.0.5+rootless
+Version: 1.0.6+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1348
+Installed-Size: 1380
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.0.5+rootless_iphoneos-arm64.deb
-Size: 222246
-MD5sum: 85354588f23a738a417ee7cbf8c1d7ce
-SHA1: 858b6467017050de684af5810d81b958e3dbdb8b
-SHA256: 1dc1d068f6ea8bc966ad20dcfa778dc60daa1216a94d11d89e6dd4e152a6cd58
+Filename: ./debs/com.dth.dynamicnotch_1.0.6+rootless_iphoneos-arm64.deb
+Size: 236274
+MD5sum: 26411e477a115a6940e9109fe70644dc
+SHA1: 573b294ac8cb164f51940fa02106d3cc91764b6f
+SHA256: fc9931352f42a568fc2b89fee061b519824b7cea76d99c3381ffdc4839cf1fdd
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.0.5
+Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
+Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 

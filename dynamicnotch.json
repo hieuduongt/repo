@@ -1,0 +1,99 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://hieuduongit.github.io/images/dynamicnotch-banner.png",
+    "tintColor": "#FF9500",
+    "tabs": [
+        {
+            "tabname": "Chi tiết",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 14,
+                    "itemSize": "{160, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Màn hình khoá với FaceID",
+                            "url": "https://hieuduongit.github.io/images/IMG_0161.jpg"
+                        },
+                        {
+                            "accessibilityText": "Đếm ngược thời gian",
+                            "url": "https://hieuduongit.github.io/images/IMG_0162.jpg"
+                        },
+                        {
+                            "accessibilityText": "Nghe nhạc Spotify",
+                            "url": "https://hieuduongit.github.io/images/IMG_0163.jpg"
+                        },
+                        {
+                            "accessibilityText": "Nghe nhạc Spotify",
+                            "url": "https://hieuduongit.github.io/images/IMG_0164.jpg"
+                        },
+                        {
+                            "accessibilityText": "Nghe nhạc Spotify",
+                            "url": "https://hieuduongit.github.io/images/IMG_0165.jpg"
+                        },
+                        {
+                            "accessibilityText": "Nghe nhạc Spotify",
+                            "url": "https://hieuduongit.github.io/images/IMG_0166.jpg"
+                        },
+                        {
+                            "accessibilityText": "Nghe nhạc Spotify",
+                            "url": "https://hieuduongit.github.io/images/IMG_0167.jpg"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Trải nghiệm Dynamic Island hoàn hảo nhất cho iOS 15 & 16\n\nDynamicNotch không chỉ là một cái UI vẽ đè lên màn hình. Nó là một hệ thống được nhúng sâu vào lõi SpringBoard, bắt chính xác mọi tín hiệu của hệ điều hành để mang lại hoạt ảnh (animation) lò xo mượt mà y hệt iPhone 14 Pro zin.\n\n**🔥 Các tính năng bá đạo:**\n* **Face ID / Passcode:** Nảy lò xo cực nhạy ngay khi ổ khoá mở cạch.\n* **Hẹn giờ (Timer):** Đếm ngược thời gian thực, đồng bộ 100% với ứng dụng Đồng hồ.\n* **Cuộc gọi & Ghi âm:** Tích hợp gọn gàng, hiển thị sóng âm và thời gian chuẩn xác.\n* **Âm nhạc & Media:** Bắt trọn thông tin bài hát, hỗ trợ vuốt Carousel.\n* **Thông minh:** Tự động tàng hình khi xoay ngang màn hình chơi game hoặc xem video Fullscreen.\n\n*Cảm ơn anh em đã ủng hộ Hieu Duong IT!*",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Thông tin Tweak"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Nhà phát triển",
+                    "text": "Hieu Duong IT"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Phiên bản",
+                    "text": "1.0.6"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Tương thích",
+                    "text": "iOS 15.0 - 16.x (Rootless|Roothide)"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Mời tác giả ly Cafe ☕️",
+                    "action": "https://paypal.me/link-cua-ong-vao-day",
+                    "tintColor": "#FF9500"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Nhật ký cập nhật",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Phiên bản 1.0.6\n* Thêm hiệu ứng vật lý lò xo (Jelly Physics) cho Notch.\n* Hỗ trợ Carousel vuốt lật trang siêu mượt.",
+                    "useSpacing": true
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
