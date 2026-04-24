@@ -1,16 +1,16 @@
 Package: com.dth.dynamicnotch
-Version: 1.0.6+roothide
+Version: 1.1.0+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1380
+Installed-Size: 1412
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.0.6+roothide_iphoneos-arm64e.deb
-Size: 233320
-MD5sum: e2ca90bdef73fd9d629ea50fe16b42c8
-SHA1: db82845eab54735a3e96be5ff932ccd3c6bd22b4
-SHA256: 16a67ef2df2212037239bff427d52a40045a4ec8fc30dbb76823adb812633b13
+Filename: ./debs/com.dth.dynamicnotch_1.1.0+roothide_iphoneos-arm64e.deb
+Size: 238936
+MD5sum: d4f57dc7f38e387acae90d7c2d730929
+SHA1: f931097f2fe9966221244331e4e3f11345b0d2e5
+SHA256: b6463b80d163b72d7a7da598ae0dc5f03b182a1a10cbd5e870c568c1cddb41d4
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
@@ -18,18 +18,18 @@ Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.0.6+rootless
+Version: 1.1.0+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1380
+Installed-Size: 1412
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.0.6+rootless_iphoneos-arm64.deb
-Size: 236274
-MD5sum: 26411e477a115a6940e9109fe70644dc
-SHA1: 573b294ac8cb164f51940fa02106d3cc91764b6f
-SHA256: fc9931352f42a568fc2b89fee061b519824b7cea76d99c3381ffdc4839cf1fdd
+Filename: ./debs/com.dth.dynamicnotch_1.1.0+rootless_iphoneos-arm64.deb
+Size: 238458
+MD5sum: b183e8d959470977db2f9f61ad430c36
+SHA1: e6e7b79bf4317f526162fd6df042c836bfd2cdf3
+SHA256: 152f726ac53075f50b19f2f527bb4f33ff61a130cc76fa21fe012e9b0d93d3a3
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
