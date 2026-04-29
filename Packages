@@ -1,37 +1,37 @@
 Package: com.dth.dynamicnotch
-Version: 1.1.0+roothide
+Version: 1.1.1+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1412
+Installed-Size: 1476
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.0+roothide_iphoneos-arm64e.deb
-Size: 238936
-MD5sum: d4f57dc7f38e387acae90d7c2d730929
-SHA1: f931097f2fe9966221244331e4e3f11345b0d2e5
-SHA256: b6463b80d163b72d7a7da598ae0dc5f03b182a1a10cbd5e870c568c1cddb41d4
+Filename: ./debs/com.dth.dynamicnotch_1.1.1+roothide_iphoneos-arm64e.deb
+Size: 259104
+MD5sum: 1de29dc57b0090f013644e7188582f3e
+SHA1: 014bf7be2880261a9d96886c79ef28e8a20c3475
+SHA256: 9194f02df198b4ac91494d56a5360b92acb429c738748c38e0f61e307e07859e
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.1 sửa lỗi notch cuộc gọi, hiện giờ đã hoạt động hoàn hảo
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.1.0+rootless
+Version: 1.1.1+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1412
+Installed-Size: 1476
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.0+rootless_iphoneos-arm64.deb
-Size: 238458
-MD5sum: b183e8d959470977db2f9f61ad430c36
-SHA1: e6e7b79bf4317f526162fd6df042c836bfd2cdf3
-SHA256: 152f726ac53075f50b19f2f527bb4f33ff61a130cc76fa21fe012e9b0d93d3a3
+Filename: ./debs/com.dth.dynamicnotch_1.1.1+rootless_iphoneos-arm64.deb
+Size: 258848
+MD5sum: 4baa579bb4d734295ac41e03648ace32
+SHA1: 39d15fcad61347bcf83fb64cd079a139792c44aa
+SHA256: afadf539fe1cf6d07b5da1efa802fa953a440159f3c1ec47400f4659b3aa72fe
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.1 sửa lỗi notch cuộc gọi, hiện giờ đã hoạt động hoàn hảo
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
