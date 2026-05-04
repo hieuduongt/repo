@@ -1,37 +1,37 @@
 Package: com.dth.dynamicnotch
-Version: 1.1.3+roothide
+Version: 1.1.4+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
 Installed-Size: 1508
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.3+roothide_iphoneos-arm64e.deb
-Size: 271238
-MD5sum: 58afe70b646fea13f02bab44859ce9fb
-SHA1: c0f03f1084248d8118eb9b05f02035dbe8a9dba2
-SHA256: b067764762699767aad73ce355623d415d8f7f854dd6c7ba0a71230691e5fc7f
+Filename: ./debs/com.dth.dynamicnotch_1.1.4+roothide_iphoneos-arm64e.deb
+Size: 272092
+MD5sum: 36d21c51fd3dc80e703c5163c5688eee
+SHA1: ee5626910df28f9f8cc68586263c2c7fbc1c70d2
+SHA256: 2624bf76873546ca09641b98d06970daced578543c11614a9da978da2007fdcd
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. \n bản 1.1.1 sửa lỗi notch cuộc gọi, hiện giờ đã hoạt động hoàn hảo. bản 1.1.3 sửa lỗi banner bị chặn bởi notch nên không có banner thông báo nào cả!
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.4 sửa lỗi nội dung bị đẩy xuống(icon ở màn hình chính,...) đối với các dòng máy không có tai thỏ, sửa lỗi kích thước notch không đúng trên các dòng máy có tai thỏ dài như iphone x, 11, 12,... và các dòng tai thỏ đặc thù như 12 mini, 13 mini
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.1.3+rootless
+Version: 1.1.4+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 1508
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.3+rootless_iphoneos-arm64.deb
-Size: 267656
-MD5sum: 7a3a3ce596af875eaa6c7d31027eba85
-SHA1: fbe05cb9031652793433b6ccd5e66062a78fa88d
-SHA256: 833c76b8312c004bebcd80c90206ac833fad773ecbae92f8d54e5185f8026af7
+Filename: ./debs/com.dth.dynamicnotch_1.1.4+rootless_iphoneos-arm64.deb
+Size: 270618
+MD5sum: 0a59e9672735364847068cc662571971
+SHA1: d67b015e4907e279297aff1766b615738abbdbec
+SHA256: 0a1209ea318eb55519556f830ba19190d4e385e75cf0d3b4172f00232106491e
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. \n bản 1.1.1 sửa lỗi notch cuộc gọi, hiện giờ đã hoạt động hoàn hảo. bản 1.1.3 sửa lỗi banner bị chặn bởi notch nên không có banner thông báo nào cả!
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.4 sửa lỗi nội dung bị đẩy xuống(icon ở màn hình chính,...) đối với các dòng máy không có tai thỏ, sửa lỗi kích thước notch không đúng trên các dòng máy có tai thỏ dài như iphone x, 11, 12,... và các dòng tai thỏ đặc thù như 12 mini, 13 mini
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
