@@ -1,37 +1,37 @@
 Package: com.dth.dynamicnotch
-Version: 1.1.5+roothide
+Version: 1.1.6+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
 Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.5+roothide_iphoneos-arm64e.deb
-Size: 274718
-MD5sum: be5036843b8b373d5f43764e01eec5af
-SHA1: 0c9d934ddab1db2fd2fa8ae5a2490cf706f6d230
-SHA256: b112c1b2abef48c09984b0c782a637696bdb521407cdeedf7fe01c4785bd6fb0
+Filename: ./debs/com.dth.dynamicnotch_1.1.6+roothide_iphoneos-arm64e.deb
+Size: 273324
+MD5sum: 3ea72670466f44ecbeaf0f7e46eb0ec4
+SHA1: 34c59e0d218eade45647195ae0b8c07f2b87290b
+SHA256: 642823123dba504a9c8cf3f4ab39f3083eced2e25a846d9596695058ee261b39
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.5 thêm tuỳ chọn bật tắt từng loại notch.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.6 fix lỗi thi thoảng không hiển thị trên ios 16.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.1.5+rootless
+Version: 1.1.6+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.5+rootless_iphoneos-arm64.deb
-Size: 273898
-MD5sum: d643d7dd2076591577b2c548e6568370
-SHA1: 1212aae1a374b9ff3b4b448e56d289da9536c4ad
-SHA256: 02f402e87db934f6995d8f50d9f90c2a13b6c9cfe78000bce8eb36226b3b375c
+Filename: ./debs/com.dth.dynamicnotch_1.1.6+rootless_iphoneos-arm64.deb
+Size: 273628
+MD5sum: 3172d910eb6e79ad38b9f36ea0b99290
+SHA1: b0e62b001afb845686299c0d6d933cde4724942d
+SHA256: 07a3d28e2628f7d0f24616a5b7d5c968ef7c27af882762a28ae8fc013513ec1d
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.5 thêm tuỳ chọn bật tắt từng loại notch.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.6 fix lỗi thi thoảng không hiển thị trên ios 16.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
