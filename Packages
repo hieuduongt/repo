@@ -1,37 +1,37 @@
 Package: com.dth.dynamicnotch
-Version: 1.1.7+roothide
+Version: 1.1.8+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
 Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.7+roothide_iphoneos-arm64e.deb
-Size: 275628
-MD5sum: ebe21af7551cae64ed3ee77060e0fb1c
-SHA1: ff98aa670571e81adb4b0e61adcc5b6bba74690f
-SHA256: e07c44226b3ca7a5161b06f6eec3a6dd9510ecdec3a27eeb2bffdeac37ab39ae
+Filename: ./debs/com.dth.dynamicnotch_1.1.8+roothide_iphoneos-arm64e.deb
+Size: 273922
+MD5sum: af1934a93126285df1a80a213a07df93
+SHA1: 3c71f2e60f6dd577fb94d575977aa0f86043960d
+SHA256: 7555f10a0e300c1f8937324a09da796ef56a450dfa8ecbe28bd4d7e1c8cc466c
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.7 fix lỗi thi thoảng không hiển thị trên ios 16.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.8 chỉnh sửa viền notch.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.1.7+rootless
+Version: 1.1.8+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.7+rootless_iphoneos-arm64.deb
-Size: 274444
-MD5sum: 59f49ffb419f817a9aa43e419adcb97c
-SHA1: 2c5a4db44978637988dab22e3c8e21de4bcfdafe
-SHA256: 06a904dd8949636c62792e627d628ef65a137f9848b64251e69b4a5e509dedc7
+Filename: ./debs/com.dth.dynamicnotch_1.1.8+rootless_iphoneos-arm64.deb
+Size: 274716
+MD5sum: ec8301cf4b1ba15e1d97341acf1beeac
+SHA1: da2c1ae6a1480b944de30bf9a70cb5004c50aefd
+SHA256: eb7516bda14cdd091d0ee664780cfd8eb5348bfa174cbf864716d30438f9a8ac
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.7 fix lỗi thi thoảng không hiển thị trên ios 16.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.8 chỉnh sửa viền notch.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
