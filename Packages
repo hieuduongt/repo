@@ -1,37 +1,37 @@
 Package: com.dth.dynamicnotch
-Version: 1.1.9+roothide
+Version: 1.1.10+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1532
+Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.9+roothide_iphoneos-arm64e.deb
-Size: 277928
-MD5sum: e39c11ae869172c5cd96d4a556df5c53
-SHA1: 5cd42894e53a7e30c62066aff3366ff59186050b
-SHA256: af9191ae39e6b385df579c2ed30cb9b503f5c42892be63d115e2a6ce6c12f660
+Filename: ./debs/com.dth.dynamicnotch_1.1.10+roothide_iphoneos-arm64e.deb
+Size: 275776
+MD5sum: 133ddd72757247f1129c7ae67e53e6da
+SHA1: 2c199f9c35a1bdf774632348017ceca7342c90dc
+SHA256: 00931f152417652af21239338d619cce0fea9ff478114054c4cad319da71f514
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.9 chỉnh sửa lỗi hiệu ứng.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.10 chỉnh sửa lỗi hiệu ứng race condition.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.1.9+rootless
+Version: 1.1.10+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1532
+Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.9+rootless_iphoneos-arm64.deb
-Size: 277930
-MD5sum: f66dd1bba2b02ab7f2e8fc32aa49e2f4
-SHA1: fe26cc27b7f14c007c7ae431f603c6a256805b6e
-SHA256: b597271f30551f06ec6db6aea45a45f6a0c1891cbff0f82d5c16d1f7de22afc8
+Filename: ./debs/com.dth.dynamicnotch_1.1.10+rootless_iphoneos-arm64.deb
+Size: 274616
+MD5sum: ce14bec4da283e6e6d5f63098b8e5aff
+SHA1: b373eb205e46b017738d12fc0b854176c974b66f
+SHA256: 926eb6cc40e63d56b1d41dc06fbb939d90acf7f1dce4a68b92ef568ae6bfd774
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.9 chỉnh sửa lỗi hiệu ứng.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.10 chỉnh sửa lỗi hiệu ứng race condition.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
