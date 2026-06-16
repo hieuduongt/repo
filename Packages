@@ -1,37 +1,37 @@
 Package: com.dth.dynamicnotch
-Version: 1.1.11+roothide
+Version: 1.1.12+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1580
+Installed-Size: 1612
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.11+roothide_iphoneos-arm64e.deb
-Size: 292064
-MD5sum: 5b8b3f4a8aeae76cd7d4a84758821315
-SHA1: d85285fe31a879da29b5ca808475ee32b585348c
-SHA256: cfa1ab717bb5e8e736f6359a030c4002144660b316dcfcd563886f13ea03aea0
+Filename: ./debs/com.dth.dynamicnotch_1.1.12+roothide_iphoneos-arm64e.deb
+Size: 302988
+MD5sum: 4dde41b6cd8023be7fa960c11e0ee2b4
+SHA1: 6927e3ddce9060fecd4bdc96742be730bcfd3861
+SHA256: 556476882c78637909838d531c5a7cfa9f46ea3014f067ed138040a4303a313b
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.11 chỉnh sửa lỗi banner bị đè.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.12 thêm notch DND
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
 
 Package: com.dth.dynamicnotch
-Version: 1.1.11+rootless
+Version: 1.1.12+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1580
+Installed-Size: 1612
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.1.11+rootless_iphoneos-arm64.deb
-Size: 292888
-MD5sum: 429a9d5e934c3f4d0183cee3427f7e7b
-SHA1: 83bc7b81f903e40170cec493491d037ef5881b03
-SHA256: 355f11658d3caa34d6a665115185855ebad3c614297a0c6bd60f62742dff860d
+Filename: ./debs/com.dth.dynamicnotch_1.1.12+rootless_iphoneos-arm64.deb
+Size: 303672
+MD5sum: d32ad860267abcc956a41e57262f5057
+SHA1: 6db1e44859f21be23ec8aeec3482a482b9207061
+SHA256: a4cf95e7f6ed1afdefb679362e3c95f137b6f4811fdf2479747fa58d88df24e8
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.11 chỉnh sửa lỗi banner bị đè.
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.12 thêm notch DND
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
