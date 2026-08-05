@@ -7,10 +7,10 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Filename: ./debs/com.dth.dynamicnotch_1.2.0+roothide_iphoneos-arm64e.deb
-Size: 299628
-MD5sum: 3b808913de89e38298883b2d6f0d1641
-SHA1: 00301287db7f01bf1c552fe512423e0aeeade34e
-SHA256: ed002541ce5590465137bc9a937b43b266bc49f7d6fa1bd49a9314111052247d
+Size: 300120
+MD5sum: f99a5be85febd3854e137b07689d00a4
+SHA1: 6804b6b304355f4a06343d913bf3ccdd0c192f28
+SHA256: a1c1e007c3cd8d3ae852e66f7e81ae08f6d1a7085ef6e3b3190f1dcdf4fc3b2d
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động, artwork media, waveform, timer,
@@ -19,8 +19,9 @@ Description: Dynamic Island cho các thiết bị tai thỏ.
  Phiên bản 1.2.0 tập trung vào cải thiện logic media: cập nhật ảnh bìa,
  đồng bộ now-playing, và giảm việc rewrite UI khi metadata không đổi.
 Author: HieuDuongIT
-Depiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
+Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
+Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 
 Package: com.dth.dynamicnotch
 Version: 1.2.0+rootless
@@ -31,10 +32,10 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Filename: ./debs/com.dth.dynamicnotch_1.2.0+rootless_iphoneos-arm64.deb
-Size: 299672
-MD5sum: 1a172442f2fca9cd14aa4a5a772bdf4e
-SHA1: 63d61d5615e39054547e6ebcd3679fb6c87d76e5
-SHA256: 184ac8e81262ab685c0709fab0c7d0eb1421d4cec5b67c7290ae9e3e6c100289
+Size: 299120
+MD5sum: bc9ee6fa5321fce53b37f9e8aec41015
+SHA1: 543d8075c2887766d67a892c9feaa7ae56408188
+SHA256: 2b44be1448236b37164783ab88ea14ea009382bfafd91266d6e50f0f55a271a4
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động, artwork media, waveform, timer,
@@ -43,6 +44,7 @@ Description: Dynamic Island cho các thiết bị tai thỏ.
  Phiên bản 1.2.0 tập trung vào cải thiện logic media: cập nhật ảnh bìa,
  đồng bộ now-playing, và giảm việc rewrite UI khi metadata không đổi.
 Author: HieuDuongIT
-Depiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
+Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
+Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 
