@@ -7,10 +7,10 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Filename: ./debs/com.dth.dynamicnotch_1.2.0+roothide_iphoneos-arm64e.deb
-Size: 300120
-MD5sum: f99a5be85febd3854e137b07689d00a4
-SHA1: 6804b6b304355f4a06343d913bf3ccdd0c192f28
-SHA256: a1c1e007c3cd8d3ae852e66f7e81ae08f6d1a7085ef6e3b3190f1dcdf4fc3b2d
+Size: 301420
+MD5sum: 0e8d388c9f366eefc2684508939d927a
+SHA1: e169aec19bfbf222874b97d6622119446e5b191d
+SHA256: 6370a369215fb8ab24fab96209eaaaa6b8323cf8c1eeaacdec78ac783c6e60f8
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động, artwork media, waveform, timer,
@@ -21,7 +21,6 @@ Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
-Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 
 Package: com.dth.dynamicnotch
 Version: 1.2.0+rootless
@@ -32,10 +31,10 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Filename: ./debs/com.dth.dynamicnotch_1.2.0+rootless_iphoneos-arm64.deb
-Size: 299120
-MD5sum: bc9ee6fa5321fce53b37f9e8aec41015
-SHA1: 543d8075c2887766d67a892c9feaa7ae56408188
-SHA256: 2b44be1448236b37164783ab88ea14ea009382bfafd91266d6e50f0f55a271a4
+Size: 300006
+MD5sum: fad393576c57ba682be604a0851f4c3c
+SHA1: 1ef046e6a18895015405a8569255be630630270e
+SHA256: f9c2fe6ece44b36c7f74df8a2f73c0e6fb5d8f86762819459556667acfd74e84
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động, artwork media, waveform, timer,
@@ -46,5 +45,4 @@ Description: Dynamic Island cho các thiết bị tai thỏ.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
-Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 
