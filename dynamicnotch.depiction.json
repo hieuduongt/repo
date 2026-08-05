@@ -1,43 +1,64 @@
 {
-  "minVersion": "0.1",
-  "headerImage": "https://hieuduongt.github.io/repo/assets/dynamicnotch/header.png",
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
   "tintColor": "#111111",
-  "class": "DepictionView",
-  "views": [
+  "headerImage": "https://hieuduongt.github.io/repo/assets/dynamicnotch/header.png",
+  "tabs": [
     {
-      "class": "DepictionHeaderView",
-      "title": "DynamicNotch",
-      "subtitle": "Dynamic Island cho cac thiet bi tai tho",
-      "useBoldText": true
-    },
-    {
-      "class": "DepictionSubheaderView",
-      "title": "Tinh nang chinh"
-    },
-    {
-      "class": "DepictionMarkdownView",
-      "markdown": "- Hien thi artwork bai hat va waveform tren notch.\\n- Dong bo now-playing voi SpringBoard va MediaRemote.\\n- Co profile rieng cho classic bezel va Dynamic Island.\\n- Toi uu giam rewrite UI khi metadata khong doi."
-    },
-    {
-      "class": "DepictionSubheaderView",
-      "title": "Cap nhat 1.2.0"
-    },
-    {
-      "class": "DepictionMarkdownView",
-      "markdown": "- Cai thien logic lay artwork media.\\n- Tranh giu anh bia cu khi doi bai.\\n- Giam refresh lap khi metadata cap nhat lai."
-    },
-    {
-      "class": "DepictionSubheaderView",
-      "title": "Screenshots"
-    },
-    {
-      "class": "DepictionScreenshotsView",
-      "itemCornerRadius": 12,
-      "itemSize": "{160,346}",
-      "screenshots": [
-        "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-1.png",
-        "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-2.png",
-        "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-3.png"
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "DynamicNotch",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Dynamic Island cho cac thiet bi tai tho.",
+          "fontWeight": "regular",
+          "fontSize": 14,
+          "textColor": "#A9AFBD"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Tinh nang chinh"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Hien thi artwork bai hat va waveform tren notch.\\n- Dong bo now-playing voi SpringBoard va MediaRemote.\\n- Co profile rieng cho classic bezel va Dynamic Island.\\n- Toi uu giam rewrite UI khi metadata khong doi."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Cap nhat 1.2.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Cai thien logic lay artwork media.\\n- Tranh giu anh bia cu khi doi bai.\\n- Giam refresh lap khi metadata cap nhat lai."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Screenshots"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160,346}",
+          "screenshots": [
+            {
+              "url": "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-1.png",
+              "accessibilityText": "DynamicNotch Screenshot 1"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-2.png",
+              "accessibilityText": "DynamicNotch Screenshot 2"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-3.png",
+              "accessibilityText": "DynamicNotch Screenshot 3"
+            }
+          ]
+        }
       ]
     }
   ]
