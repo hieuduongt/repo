@@ -1,14 +1,43 @@
 {
+  "minVersion": "0.1",
+  "headerImage": "https://hieuduongt.github.io/repo/assets/dynamicnotch/header.png",
   "tintColor": "#111111",
-  "screenshots": [],
-  "tabs": [
+  "class": "DepictionView",
+  "views": [
     {
-      "tabname": "Details",
-      "views": [
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "# DynamicNotch\n\nDynamicNotch biến phần notch / viên thuốc thành một khu vực hiển thị động cho media, timer, AirPods, hotspot và các trạng thái hệ thống.\n\n## Tính năng chính\n\n- Hiển thị artwork bài hát và waveform trên notch.\n- Đồng bộ now-playing với SpringBoard và MediaRemote.\n- Có profile riêng cho classic bezel và Dynamic Island.\n- Tối ưu giảm rewrite UI khi metadata không đổi.\n\n## Cập nhật 1.2.0\n\n- Cải thiện logic lấy artwork media.\n- Tránh giữ ảnh bìa cũ khi đổi bài.\n- Giảm refresh lặp khi metadata cập nhật lại."
-        }
+      "class": "DepictionHeaderView",
+      "title": "DynamicNotch",
+      "subtitle": "Dynamic Island cho cac thiet bi tai tho",
+      "useBoldText": true
+    },
+    {
+      "class": "DepictionSubheaderView",
+      "title": "Tinh nang chinh"
+    },
+    {
+      "class": "DepictionMarkdownView",
+      "markdown": "- Hien thi artwork bai hat va waveform tren notch.\\n- Dong bo now-playing voi SpringBoard va MediaRemote.\\n- Co profile rieng cho classic bezel va Dynamic Island.\\n- Toi uu giam rewrite UI khi metadata khong doi."
+    },
+    {
+      "class": "DepictionSubheaderView",
+      "title": "Cap nhat 1.2.0"
+    },
+    {
+      "class": "DepictionMarkdownView",
+      "markdown": "- Cai thien logic lay artwork media.\\n- Tranh giu anh bia cu khi doi bai.\\n- Giam refresh lap khi metadata cap nhat lai."
+    },
+    {
+      "class": "DepictionSubheaderView",
+      "title": "Screenshots"
+    },
+    {
+      "class": "DepictionScreenshotsView",
+      "itemCornerRadius": 12,
+      "itemSize": "{160,346}",
+      "screenshots": [
+        "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-1.png",
+        "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-2.png",
+        "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-3.png"
       ]
     }
   ]

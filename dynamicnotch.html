@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DynamicNotch</title>
+  <style>
+    :root {
+      --bg: #0f1012;
+      --panel: #17191d;
+      --text: #f4f6fa;
+      --muted: #a9afbd;
+      --accent: #38d3a7;
+    }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at 10% 10%, #1c2028 0%, var(--bg) 55%);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 28px 18px 48px;
+    }
+    .card {
+      background: linear-gradient(180deg, #1b1f27 0%, var(--panel) 100%);
+      border: 1px solid #2a2f3a;
+      border-radius: 16px;
+      padding: 18px;
+      margin-bottom: 16px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.32);
+    }
+    h1, h2 {
+      margin: 0 0 10px;
+    }
+    h1 { font-size: 28px; }
+    h2 { font-size: 18px; color: var(--accent); }
+    p, li { color: var(--muted); }
+    ul { margin: 8px 0 0 18px; }
+    .shots {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .shot {
+      aspect-ratio: 9 / 19.5;
+      border-radius: 12px;
+      border: 1px solid #313748;
+      object-fit: cover;
+      width: 100%;
+      background: #0b0c0f;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>DynamicNotch</h1>
+      <p>Dynamic Island cho cac thiet bi tai tho, tap trung vao media, timer, AirPods, hotspot va cac trang thai he thong.</p>
+    </div>
+
+    <div class="card">
+      <h2>Tinh nang chinh</h2>
+      <ul>
+        <li>Hien thi artwork bai hat va waveform tren notch.</li>
+        <li>Dong bo now-playing voi SpringBoard va MediaRemote.</li>
+        <li>Co profile rieng cho classic bezel va Dynamic Island.</li>
+        <li>Toi uu giam rewrite UI khi metadata khong doi.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Cap nhat 1.2.0</h2>
+      <ul>
+        <li>Cai thien logic lay artwork media.</li>
+        <li>Tranh giu anh bia cu khi doi bai.</li>
+        <li>Giam refresh lap khi metadata cap nhat lai.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Screenshots</h2>
+      <div class="shots">
+        <img class="shot" src="https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-1.png" alt="Screenshot 1">
+        <img class="shot" src="https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-2.png" alt="Screenshot 2">
+        <img class="shot" src="https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-3.png" alt="Screenshot 3">
+      </div>
+    </div>
+  </div>
+</body>
+</html>
