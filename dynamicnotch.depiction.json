@@ -10,31 +10,8 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "DynamicNotch",
+          "title": "DynamicNotch v1.2.0",
           "useBoldText": true
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "Dynamic Island cho cac thiet bi tai tho.",
-          "fontWeight": "regular",
-          "fontSize": 14,
-          "textColor": "#A9AFBD"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Tinh nang chinh"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Hien thi artwork bai hat va waveform tren notch.\\n- Dong bo now-playing voi SpringBoard va MediaRemote.\\n- Co profile rieng cho classic bezel va Dynamic Island.\\n- Toi uu giam rewrite UI khi metadata khong doi."
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Cap nhat 1.2.0"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Cai thien logic lay artwork media.\\n- Tranh giu anh bia cu khi doi bai.\\n- Giam refresh lap khi metadata cap nhat lai."
         },
         {
           "class": "DepictionSubheaderView",
@@ -46,18 +23,101 @@
           "itemSize": "{160,346}",
           "screenshots": [
             {
-              "url": "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-1.png",
+              "url": "https://hieuduongt.github.io/repo/images/IMG_0161.jpg",
               "accessibilityText": "DynamicNotch Screenshot 1"
             },
             {
-              "url": "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-2.png",
+              "url": "https://hieuduongt.github.io/repo/images/IMG_0162.jpg",
               "accessibilityText": "DynamicNotch Screenshot 2"
             },
             {
-              "url": "https://hieuduongt.github.io/repo/assets/dynamicnotch/shot-3.png",
+              "url": "https://hieuduongt.github.io/repo/images/IMG_0163.jpg",
               "accessibilityText": "DynamicNotch Screenshot 3"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/IMG_0164.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 4"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/IMG_0165.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 5"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/IMG_0166.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 6"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/IMG_0167.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 7"
             }
           ]
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Dynamic Island cho các thiết bị tai thỏ và các thiết bị không có tai thỏ như iPhone SE, 6, 6S, 7, 8, 8 plus",
+          "fontWeight": "regular",
+          "fontSize": 14,
+          "textColor": "#A9AFBD"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Tính năng chính, hỗ trợ các loại notch:"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "1. Battery"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "2. Ringer"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "3. Media"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "4. Timer"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "5. Screen Recording"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "6. AirPods"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "7. Face ID"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "8. Voice Recording"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "9. Phone Call"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "10. AirDrop"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "11. Personal Hotspot"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "12. Lock Status"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Cập nhật 1.2.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Cải thiện logic lấy artwork media. Đồng thời thêm hiệu ứung, viền notch cho các thiết bị không tai thỏ."
         }
       ]
     }
