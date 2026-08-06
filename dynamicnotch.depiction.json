@@ -54,7 +54,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Dynamic Island cho các thiết bị tai thỏ và các thiết bị không có tai thỏ như iPhone SE, 6, 6S, 7, 8, 8 plus",
+          "text": "Dynamic Island cho các thiết bị tai thỏ \nvà các thiết bị không có tai thỏ như iPhone SE, 6, 6S, 7, 8, 8 plus",
           "fontWeight": "regular",
           "fontSize": 14,
           "textColor": "#A9AFBD"
