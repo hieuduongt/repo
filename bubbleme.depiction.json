@@ -20,7 +20,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 12,
-          "itemSize": "{160,346}",
+          "itemSize": "{1125,2436}",
           "screenshots": [
             {
               "url": "https://hieuduongt.github.io/repo/images/BM_1.jpg",
