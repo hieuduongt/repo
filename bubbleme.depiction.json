@@ -10,13 +10,13 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "BubbleMe v0.0.1",
+          "title": "BubbleMe",
           "useBoldText": true
         },
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 12,
-          "itemSize": "{1125,2436}",
+          "itemSize": "{160,346}",
           "screenshots": [
             {
               "url": "https://hieuduongt.github.io/repo/images/BM_1.jpg",

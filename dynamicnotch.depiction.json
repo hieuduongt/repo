@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "DynamicNotch v1.2.0",
+          "title": "DynamicNotch",
           "useBoldText": true
         },
         {

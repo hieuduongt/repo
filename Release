@@ -3,7 +3,7 @@ Label: HieuDuongIT
 Suite: stable
 Version: 1.0.1
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 phoneos-arm64e
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Icon: https://hieuduongt.github.io/repo/CydiaIcon.png
 Description: Kho Tweak siêu xịn của HieuDuongIT
