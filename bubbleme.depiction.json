@@ -1,0 +1,73 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#111111",
+  "headerImage": "https://hieuduongt.github.io/repo/assets/bubbleme/header.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "BubbleMe v0.0.1",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Screenshots"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160,346}",
+          "screenshots": [
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_1.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 1"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_2.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 2"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_3.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 3"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_4.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 4"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_5.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 5"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_6.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 6"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_7.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 7"
+            }
+          ]
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "BubbleMe là một TWEAK mang trải nghiệm App Bubbles (bong bóng ứng dụng) của Android lên iOS 15+",
+          "fontWeight": "regular",
+          "fontSize": 14,
+          "textColor": "#A9AFBD"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Tính năng chính:"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Chạy các tất cả các app dưới dạng bong bóng bằng nhiều cách: menu haptic, menu đa nhiệm, banner thông báo."
+        }
+      ]
+    }
+  ]
+}
