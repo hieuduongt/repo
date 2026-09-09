@@ -23,45 +23,30 @@
           "itemSize": "{160,346}",
           "screenshots": [
             {
-              "url": "https://hieuduongt.github.io/repo/images/BM_1.jpg",
+              "url": "https://hieuduongt.github.io/repo/images/BM_1.PNG",
               "accessibilityText": "DynamicNotch Screenshot 1"
             },
             {
-              "url": "https://hieuduongt.github.io/repo/images/BM_2.jpg",
+              "url": "https://hieuduongt.github.io/repo/images/BM_2.PNG",
               "accessibilityText": "DynamicNotch Screenshot 2"
             },
             {
-              "url": "https://hieuduongt.github.io/repo/images/BM_3.jpg",
+              "url": "https://hieuduongt.github.io/repo/images/BM_3.PNG",
               "accessibilityText": "DynamicNotch Screenshot 3"
             },
             {
-              "url": "https://hieuduongt.github.io/repo/images/BM_4.jpg",
+              "url": "https://hieuduongt.github.io/repo/images/BM_4.PNG",
               "accessibilityText": "DynamicNotch Screenshot 4"
             },
             {
-              "url": "https://hieuduongt.github.io/repo/images/BM_5.jpg",
+              "url": "https://hieuduongt.github.io/repo/images/BM_5.PNG",
               "accessibilityText": "DynamicNotch Screenshot 5"
-            },
-            {
-              "url": "https://hieuduongt.github.io/repo/images/BM_6.jpg",
-              "accessibilityText": "DynamicNotch Screenshot 6"
-            },
-            {
-              "url": "https://hieuduongt.github.io/repo/images/BM_7.jpg",
-              "accessibilityText": "DynamicNotch Screenshot 7"
             }
           ]
         },
         {
-          "class": "DepictionLabelView",
-          "text": "BubbleMe là một TWEAK mang trải nghiệm App Bubbles (bong bóng ứng dụng) của Android lên iOS 15+",
-          "fontWeight": "regular",
-          "fontSize": 14,
-          "textColor": "#A9AFBD"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Tính năng chính:"
+          "class": "DepictionMarkdownView",
+          "markdown": "BubbleMe là một TWEAK mang trải nghiệm App Bubbles (bong bóng ứng dụng) của Android lên iOS 15+"
         },
         {
           "class": "DepictionMarkdownView",
