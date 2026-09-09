@@ -17,6 +17,7 @@ Description: Mang trải nghiệm App Bubbles (bong bóng ứng dụng) của An
 Author: HieuDuongIT
 Icon: file:///Library/PreferenceBundles/BubbleMePrefs.bundle/icon@2x.png
 Name: BubbleMe
+Depiction: https://hieuduongt.github.io/repo/bubbleme.html
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.bubbleme
@@ -38,6 +39,7 @@ Description: Mang trải nghiệm App Bubbles (bong bóng ứng dụng) của An
 Author: HieuDuongIT
 Icon: file:///Library/PreferenceBundles/BubbleMePrefs.bundle/icon@2x.png
 Name: BubbleMe
+Depiction: https://hieuduongt.github.io/repo/bubbleme.html
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.dynamicnotch

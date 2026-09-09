@@ -6,7 +6,7 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Details",
+      "tabname": "Tiếng Việt",
       "views": [
         {
           "class": "DepictionHeaderView",
@@ -46,7 +46,53 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Chạy các tất cả các app dưới dạng bong bóng bằng nhiều cách: menu haptic, menu đa nhiệm, banner thông báo."
+          "markdown": "Chạy tất cả các app dưới dạng bong bóng bằng nhiều cách: menu haptic, menu đa nhiệm, banner thông báo."
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "English",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "BubbleMe",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160,346}",
+          "screenshots": [
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_1.png",
+              "accessibilityText": "BubbleMe Screenshot 1"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_2.png",
+              "accessibilityText": "BubbleMe Screenshot 2"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_3.png",
+              "accessibilityText": "BubbleMe Screenshot 3"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_4.png",
+              "accessibilityText": "BubbleMe Screenshot 4"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/BM_5.png",
+              "accessibilityText": "BubbleMe Screenshot 5"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "BubbleMe is a tweak that brings Android App Bubbles to iOS 15+"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Run any app as a floating bubble in multiple ways: haptic menu, app switcher, and notification banners."
         }
       ]
     }

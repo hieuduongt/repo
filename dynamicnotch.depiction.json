@@ -6,7 +6,7 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Details",
+      "tabname": "Tiếng Việt",
       "views": [
         {
           "class": "DepictionHeaderView",
@@ -49,15 +49,122 @@
           ]
         },
         {
-          "class": "DepictionLabelView",
-          "text": "Dynamic Island cho các thiết bị tai thỏ \nvà các thiết bị không có tai thỏ như iPhone SE, 6, 6S, 7, 8, 8 plus",
-          "fontWeight": "regular",
-          "fontSize": 14,
-          "textColor": "#A9AFBD"
+          "class": "DepictionMarkdownView",
+          "markdown": "Dynamic Island cho các thiết bị tai thỏ \nvà các thiết bị không có tai thỏ như iPhone SE, 6, 6S, 7, 8, 8 plus"
         },
         {
           "class": "DepictionSubheaderView",
           "title": "Tính năng chính, hỗ trợ các loại notch:"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "1. Pin"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "2. Chuông / im lặng"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "3. Media"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "4. Hẹn giờ"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "5. Quay màn hình"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "6. AirPods"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "7. Face ID"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "8. Ghi âm"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "9. Cuộc gọi"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "10. AirDrop"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "11. Personal Hotspot"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "12. Trạng thái khóa"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Cập nhật 1.3.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Thêm notch mới cho bản đồ."
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "English",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "DynamicNotch",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160,346}",
+          "screenshots": [
+            {
+              "url": "https://hieuduongt.github.io/repo/images/DN_1.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 1"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/DN_2.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 2"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/DN_3.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 3"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/DN_4.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 4"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/DN_5.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 5"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/DN_6.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 6"
+            },
+            {
+              "url": "https://hieuduongt.github.io/repo/images/DN_7.jpg",
+              "accessibilityText": "DynamicNotch Screenshot 7"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Dynamic Island for notch devices\nand non-notch devices such as iPhone SE, 6, 6S, 7, 8, and 8 Plus"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Main features, supported notch types:"
         },
         {
           "class": "DepictionMarkdownView",
@@ -109,11 +216,11 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Cập nhật 1.3.0"
+          "title": "What's new in 1.3.0"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Thêm notch mới cho bản đồ."
+          "markdown": "- Added a new Maps / navigation notch."
         }
       ]
     }
