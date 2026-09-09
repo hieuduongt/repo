@@ -14,10 +14,6 @@
           "useBoldText": true
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "Screenshots"
-        },
-        {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 12,
           "itemSize": "{1125,2436}",

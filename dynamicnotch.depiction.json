@@ -14,10 +14,6 @@
           "useBoldText": true
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "Screenshots"
-        },
-        {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 12,
           "itemSize": "{160,346}",
@@ -113,11 +109,11 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Cập nhật 1.2.0"
+          "title": "Cập nhật 1.3.0"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Cải thiện logic lấy artwork media. Đồng thời thêm hiệu ứung, viền notch cho các thiết bị không tai thỏ."
+          "markdown": "- Thêm notch mới cho bản đồ."
         }
       ]
     }
