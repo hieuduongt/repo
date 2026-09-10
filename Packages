@@ -1,41 +1,43 @@
 Package: com.dth.bubbleme
-Version: 0.0.1+roothide
+Version: 0.0.2-alpha+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
 Installed-Size: 1048
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Breaks: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
 Replaces: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
-Filename: ./debs/com.dth.bubbleme_0.0.1+roothide_iphoneos-arm64e.deb
-Size: 248234
-MD5sum: a4a8d11326aa7d5e110e7d71692159fb
-SHA1: cf39ade54a8294274008a7c097040fd08d2f5ec8
-SHA256: 58003c7448dccf568f7f512250177eb8fe1f06f49996fe1b3fc0a540d8ccd117
+Filename: ./debs/com.dth.bubbleme_0.0.2-alpha+roothide_iphoneos-arm64e.deb
+Size: 248582
+MD5sum: 862963f108c067207a6574092a67bc0e
+SHA1: 5cc25a0b24ae0fd1940dcb2ed0cd3408c123856d
+SHA256: 0962588b4b7b3245008834e61b0ad8d7cfaf0ecbcc095d9c04b5233c0b53bd7c
 Section: Tweaks
-Homepage: https://github.com/bubbleme/tweak
+Homepage: https://hieuduongit.com
 Description: Mang trải nghiệm App Bubbles (bong bóng ứng dụng) của Android lên iOS 15+
 Author: HieuDuongIT
+Depiction: https://hieuduongt.github.io/repo/bubbleme.html
 Icon: file:///Library/PreferenceBundles/BubbleMePrefs.bundle/icon@2x.png
 Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.bubbleme
-Version: 0.0.1+rootless
+Version: 0.0.2-alpha+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 1048
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Breaks: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
 Replaces: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
-Filename: ./debs/com.dth.bubbleme_0.0.1+rootless_iphoneos-arm64.deb
-Size: 247832
-MD5sum: c08c53e4f8f7f5e4a52c4996527bc5bf
-SHA1: 40777f130e06d1f9ef961c7bc4acadf50f980a0c
-SHA256: 936a9b8e2929482a6f68feaf1594a42ee988458dea4ed7315b5fd03d54356394
+Filename: ./debs/com.dth.bubbleme_0.0.2-alpha+rootless_iphoneos-arm64.deb
+Size: 249378
+MD5sum: 513ba1fc0e0457702d10a1932a8a3eae
+SHA1: ab020218cc40012f050bc9e961e3d6641a0b7d02
+SHA256: 864f01e0c6f5652a9f954ff00ad070085548f2fcb391c18e9857e0947f5f43ec
 Section: Tweaks
-Homepage: https://github.com/bubbleme/tweak
+Homepage: https://hieuduongit.com
 Description: Mang trải nghiệm App Bubbles (bong bóng ứng dụng) của Android lên iOS 15+
 Author: HieuDuongIT
+Depiction: https://hieuduongt.github.io/repo/bubbleme.html
 Icon: file:///Library/PreferenceBundles/BubbleMePrefs.bundle/icon@2x.png
 Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
