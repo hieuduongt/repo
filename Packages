@@ -6,7 +6,7 @@ Installed-Size: 1048
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Breaks: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
 Replaces: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
-Filename: ./debs/com.dth.bubbleme_0.0.2-alpha+roothide_iphoneos-arm64e.deb
+Filename: ./debs/Bản sao com.dth.bubbleme_0.0.2-alpha+roothide_iphoneos-arm64e.deb
 Size: 248582
 MD5sum: 862963f108c067207a6574092a67bc0e
 SHA1: 5cc25a0b24ae0fd1940dcb2ed0cd3408c123856d
@@ -28,7 +28,7 @@ Installed-Size: 1048
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Breaks: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
 Replaces: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
-Filename: ./debs/com.dth.bubbleme_0.0.2-alpha+rootless_iphoneos-arm64.deb
+Filename: ./debs/Bản sao com.dth.bubbleme_0.0.2-alpha+rootless_iphoneos-arm64.deb
 Size: 249378
 MD5sum: 513ba1fc0e0457702d10a1932a8a3eae
 SHA1: ab020218cc40012f050bc9e961e3d6641a0b7d02
