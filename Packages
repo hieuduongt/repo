@@ -1,16 +1,16 @@
 Package: com.dth.bubbleme
-Version: 0.0.2-alpha+roothide
+Version: 0.0.2-alpha-1+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 1048
+Installed-Size: 1160
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Breaks: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
 Replaces: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
-Filename: ./debs/com.dth.bubbleme_0.0.2-alpha+roothide_iphoneos-arm64e.deb
-Size: 248582
-MD5sum: 862963f108c067207a6574092a67bc0e
-SHA1: 5cc25a0b24ae0fd1940dcb2ed0cd3408c123856d
-SHA256: 0962588b4b7b3245008834e61b0ad8d7cfaf0ecbcc095d9c04b5233c0b53bd7c
+Filename: ./debs/com.dth.bubbleme_0.0.2-alpha-1+roothide_iphoneos-arm64e.deb
+Size: 267100
+MD5sum: 21a7f8aaece35698c9c04913f3056482
+SHA1: 596587e7977c55e506b46617d0b2e518d493c03c
+SHA256: 0399d1a623bdaf803d4e0c7f22ec20429fb665747471392e82b89030f501ea41
 Section: Tweaks
 Homepage: https://hieuduongit.com
 Description: Mang trải nghiệm App Bubbles (bong bóng ứng dụng) của Android lên iOS 15+
@@ -21,18 +21,18 @@ Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.bubbleme
-Version: 0.0.2-alpha+rootless
+Version: 0.0.2-alpha-1+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 1048
+Installed-Size: 1160
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Breaks: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
 Replaces: com.dth.bubbleme-roothide, com.dth.bubbleme-rootless
-Filename: ./debs/com.dth.bubbleme_0.0.2-alpha+rootless_iphoneos-arm64.deb
-Size: 249378
-MD5sum: 513ba1fc0e0457702d10a1932a8a3eae
-SHA1: ab020218cc40012f050bc9e961e3d6641a0b7d02
-SHA256: 864f01e0c6f5652a9f954ff00ad070085548f2fcb391c18e9857e0947f5f43ec
+Filename: ./debs/com.dth.bubbleme_0.0.2-alpha-1+rootless_iphoneos-arm64.deb
+Size: 266638
+MD5sum: 95914fde7d7bb071f287aa03277eb2aa
+SHA1: 95fb974f6eeb261292e2c5aec69b42913cf9af5a
+SHA256: ae7265f16956f05122f3eafd8293af138d069db22ff1a0f5935dc481d7075125
 Section: Tweaks
 Homepage: https://hieuduongit.com
 Description: Mang trải nghiệm App Bubbles (bong bóng ứng dụng) của Android lên iOS 15+
