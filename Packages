@@ -43,44 +43,44 @@ Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.3.4+roothide
+Version: 1.4.0+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 2368
+Installed-Size: 2764
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.3.4+roothide_iphoneos-arm64e.deb
-Size: 543390
-MD5sum: 08f03d864f590aa7f82ae730ca09891d
-SHA1: e60e5ec42789e059737827a8f402d454606c192b
-SHA256: 40a32e15fcee328a336f9b94ecc4ff67d83140355b6d73d3b565a8cbf5aca50f
+Filename: ./debs/com.dth.dynamicnotch_1.4.0+roothide_iphoneos-arm64e.deb
+Size: 648882
+MD5sum: a731fbe53f83ed3a0ae0bb32bb91843c
+SHA1: 7979fe8f06147a52f024dc9e8ea3c0f5bc294d92
+SHA256: 4064d0bb869ee5f54276cf30aa4cf54cab75d136b07b53fb54ad277d61fb5d54
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
- Phiên bản 1.3.4: Gộp icons (Chỉ báo Duo) — khi notch đang hiện, gộp Wi-Fi, sóng và pin bên phải thành một vòng; bật/tắt trong cài đặt.
+ Phiên bản 1.4.0: Icon AirPods 3D xoay đúng mẫu tai nghe (iOS 16+); notch AirPods trên iOS 15; notch điểm truy cập cá nhân theo trạng thái hệ thống; hộp đen và nút "Báo lỗi" trong cài đặt.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
 Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.3.4+rootless
+Version: 1.4.0+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 2368
+Installed-Size: 2764
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.3.4+rootless_iphoneos-arm64.deb
-Size: 543024
-MD5sum: 3a89a3874526244039d1535c47a03e0e
-SHA1: 23ae7466e97e2db4ed746c25c90e9bf6b86c4615
-SHA256: 95d05ecb170cc5a892f83fa00cf90b3756057ccb4532bbf540b14912c85f7c16
+Filename: ./debs/com.dth.dynamicnotch_1.4.0+rootless_iphoneos-arm64.deb
+Size: 648826
+MD5sum: fc75ae70f966b2343e2d0685b94fd6e2
+SHA1: 18240b0e59b4085b4acaa6b0ff735190b74eea8d
+SHA256: 5883b7cbc4984ffe549540caf3b258ccefb67f1923f9fd55a758cc414efd3687
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
- Phiên bản 1.3.4: Gộp icons (Chỉ báo Duo) — khi notch đang hiện, gộp Wi-Fi, sóng và pin bên phải thành một vòng; bật/tắt trong cài đặt.
+ Phiên bản 1.4.0: Icon AirPods 3D xoay đúng mẫu tai nghe (iOS 16+); notch AirPods trên iOS 15; notch điểm truy cập cá nhân theo trạng thái hệ thống; hộp đen và nút "Báo lỗi" trong cài đặt.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
