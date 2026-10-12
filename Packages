@@ -43,44 +43,44 @@ Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.4.1+roothide
+Version: 1.5.0+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 2828
+Installed-Size: 2940
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.4.1+roothide_iphoneos-arm64e.deb
-Size: 669086
-MD5sum: 50558f8aae5aa6a6380d1a250af62096
-SHA1: a79887ae4e0b2ac2d26197bd6468f060b5af3972
-SHA256: 8a610a2bebae645ff8530aad21c2d1dc7d6a176125bc74be67d5451069a56833
+Filename: ./debs/com.dth.dynamicnotch_1.5.0+roothide_iphoneos-arm64e.deb
+Size: 683190
+MD5sum: 87c02f1ae4160deca509733e5babb351
+SHA1: de58803dbfb14179fd83526b59cc3689c1b89e8c
+SHA256: 57dbe10411b56752c135e977493cf8349612248c5bc631b3591742a2eef83431
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
- Phiên bản 1.4.1: thay đổi giao diện, tối ưu lại notch bản đồ và một số loại notch khác.
+ Phiên bản 1.5.0: thêm hiển thị thông báo ứng dụng trên notch (tuỳ chọn) và tối ưu một số loại notch khác.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
 Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.4.1+rootless
+Version: 1.5.0+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 2828
+Installed-Size: 2940
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.4.1+rootless_iphoneos-arm64.deb
-Size: 667722
-MD5sum: b94b173d4e872bebf8947f7c83957a15
-SHA1: e6c0a6cd846dddf22c4ed1461671ed7b201bf34f
-SHA256: 65c0c076231d6ed6fd3b38e71ea0390df0962e59422d1896c9f9d705eeb7ad7d
+Filename: ./debs/com.dth.dynamicnotch_1.5.0+rootless_iphoneos-arm64.deb
+Size: 683144
+MD5sum: 91521c66d3877b664fb6de4dafc43aca
+SHA1: fdae4d56b566ab671652daa4f0781e8a0b608496
+SHA256: dccc225b53326bc55882019b8d7a814da35cc13f072615c461b43eed9987558b
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
- Phiên bản 1.4.1: thay đổi giao diện, tối ưu lại notch bản đồ và một số loại notch khác.
+ Phiên bản 1.5.0: thêm hiển thị thông báo ứng dụng trên notch (tuỳ chọn) và tối ưu một số loại notch khác.
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
