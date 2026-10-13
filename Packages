@@ -43,44 +43,44 @@ Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.1+roothide
+Version: 1.5.2+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
-Installed-Size: 2956
+Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.1+roothide_iphoneos-arm64e.deb
-Size: 684780
-MD5sum: 630e3b69df753969a94d6c6997bb9cf4
-SHA1: bda61bb17832d5ca6cd8b8108195a8100a995b39
-SHA256: 24b2a8921e29359f4d63749f3b0b3e9544422e59f27bdac262e73c5bdc8e96a3
+Filename: ./debs/com.dth.dynamicnotch_1.5.2+roothide_iphoneos-arm64e.deb
+Size: 700230
+MD5sum: 00148adbbc2f240a70c3749cdeda3482
+SHA1: 76f6c877396a128c37e2d56bbde4c7408cee6985
+SHA256: af58a7d0b00eee2747fc642b6a394f6728787c76ef4701717eb02ce87b40ed81
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
- Phiên bản 1.5.1: sửa notch khi app toàn màn hình / xoay ngang (không kẹt ẩn, không lộ viền), banner thông báo tự về đúng vị trí sau khi xoay, hiện banner cuộc gọi của iOS khi notch đang ẩn, hỗ trợ iOS 17+.
+ Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
 Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.1+rootless
+Version: 1.5.2+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
-Installed-Size: 2956
+Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.1+rootless_iphoneos-arm64.deb
-Size: 683564
-MD5sum: f0aa7139aa7973cdd8df0b0fc80d39c9
-SHA1: f89af854d3dd488a6b209087acdb4ea8a9839e2c
-SHA256: 9b1eb6a739adae7f89b21a7b4c691cfdc8ee2b9b04c733ff5eb3d3a9a765fcac
+Filename: ./debs/com.dth.dynamicnotch_1.5.2+rootless_iphoneos-arm64.deb
+Size: 701506
+MD5sum: 4fd1587a5ac8fcfdc58e8598b31798eb
+SHA1: 0ac48045bc256e2f453808985fe77f051301a76c
+SHA256: 36e2e6c27233a10d56ad8359da5a4a5044f40321a2bd7ab96bdee9afa53f4b32
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
- Phiên bản 1.5.1: sửa notch khi app toàn màn hình / xoay ngang (không kẹt ẩn, không lộ viền), banner thông báo tự về đúng vị trí sau khi xoay, hiện banner cuộc gọi của iOS khi notch đang ẩn, hỗ trợ iOS 17+.
+ Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
 Name: DynamicNotch
