@@ -47,6 +47,56 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "Chạy tất cả các app dưới dạng bong bóng bằng nhiều cách: menu haptic, menu đa nhiệm, banner thông báo."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Ủng hộ"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Lậy ông đi qua, lậy bà đi lại, bố thí cho thằng dev nghèo hèn để nó phục vụ quý ông quý bà :("
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://hieuduongt.github.io/repo/images/BankQR.jpg",
+          "width": 260,
+          "height": 457,
+          "cornerRadius": 12,
+          "alignment": 1
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Mở app ngân hàng của bạn, chọn quét QR rồi quét mã trên."
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Chủ tài khoản",
+          "text": "DUONG THANH HIEU"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Số tài khoản",
+          "text": "107002042176"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngân hàng",
+          "text": "VietinBank - CN PHUC YEN - HOI SO"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "PayPal",
+          "action": "https://paypal.me/duongthanhhieu",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Buy Me a Coffee",
+          "action": "https://buymeacoffee.com/hieuduongit",
+          "openExternal": 1
         }
       ]
     },
@@ -93,6 +143,56 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "Run any app as a floating bubble in multiple ways: haptic menu, app switcher, and notification banners."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Donate"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "If this tweak helps you, a small donation keeps development going."
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://hieuduongt.github.io/repo/images/BankQR.jpg",
+          "width": 260,
+          "height": 457,
+          "cornerRadius": 12,
+          "alignment": 1
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Open your banking app, choose scan QR, then scan the code above."
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Account holder",
+          "text": "DUONG THANH HIEU"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Account number",
+          "text": "107002042176"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Bank",
+          "text": "VietinBank - CN PHUC YEN - HOI SO"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "PayPal",
+          "action": "https://paypal.me/duongthanhhieu",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Buy Me a Coffee",
+          "action": "https://buymeacoffee.com/hieuduongit",
+          "openExternal": 1
         }
       ]
     }

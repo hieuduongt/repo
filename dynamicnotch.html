@@ -101,6 +101,27 @@
       cursor: pointer;
     }
     .dot.active { background: var(--accent); }
+    .qr {
+      display: block;
+      width: min(260px, 70%);
+      height: auto;
+      margin: 12px auto 0;
+      border-radius: 12px;
+      background: #fff;
+    }
+    .donate-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+    .donate-links a {
+      color: var(--accent);
+      text-decoration: none;
+      border: 1px solid #313748;
+      border-radius: 10px;
+      padding: 8px 12px;
+    }
   </style>
 </head>
 <body>
@@ -152,6 +173,22 @@
         <button class="slider-nav" type="button" data-next aria-label="Ảnh sau">›</button>
       </div>
       <div class="dots" data-dots></div>
+    </div>
+
+    <div class="card">
+      <h2>Ủng hộ</h2>
+      <p>Lậy ông đi qua, lậy bà đi lại, bố thí cho thằng dev nghèo hèn để nó phục vụ quý ông quý bà :(</p>
+      <img class="qr" src="images/BankQR.jpg" alt="QR chuyển khoản VietinBank">
+      <p>Mở app ngân hàng của bạn, chọn quét QR rồi quét mã trên.</p>
+      <ul>
+        <li>Chủ tài khoản: DUONG THANH HIEU</li>
+        <li>Số tài khoản: 107002042176</li>
+        <li>Ngân hàng: VietinBank - CN PHUC YEN - HOI SO</li>
+      </ul>
+      <div class="donate-links">
+        <a href="https://paypal.me/duongthanhhieu">PayPal</a>
+        <a href="https://buymeacoffee.com/hieuduongit">Buy Me a Coffee</a>
+      </div>
     </div>
   </div>
   <script>
