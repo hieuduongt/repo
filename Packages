@@ -43,21 +43,22 @@ Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.3+roothide
+Version: 1.5.4+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
 Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.3+roothide_iphoneos-arm64e.deb
-Size: 701898
-MD5sum: 98ebb4e8e1a04d89948e762b28520d4b
-SHA1: c507388a78da5bfeacabe6be8d2618d7958cb23c
-SHA256: f08eac80dbd70a0d928c22d20b25348883b03a99710a8883a0474965557d7cd3
+Filename: ./debs/com.dth.dynamicnotch_1.5.4+roothide_iphoneos-arm64e.deb
+Size: 705824
+MD5sum: 9ae7052faa817c97afded11e1ea1fab4
+SHA1: 272e810c687f648ddcd9b39ff2614663cf44f6f1
+SHA256: 7a540a9ef3ddbedeedaaa239f2b8055aff6ad8a5dc0d6860d9af89e6cb4f71f3
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
+ Phiên bản 1.5.4: tiết kiệm pin và CPU: ngừng xử lý sóng nhạc, sóng ghi âm và thanh thời gian bài hát khi tắt màn hình; ngừng các bộ đếm chạy nền khi không phát nhạc; chỉ chạy sóng ghi âm đang hiển thị; sửa vòng lặp chạy liên tục khi máy không đặt mật mã hoặc tắt notch khoá; sửa nút trả lời / từ chối cuộc gọi; notch bản đồ không còn ghi đè bộ nhớ tạm (clipboard); sửa rò rỉ khi gửi/nhận AirDrop và điểm truy cập cá nhân.
  Phiên bản 1.5.3: sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom); sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật; iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island; sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động); sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông.
  Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
 Author: HieuDuongIT
@@ -66,21 +67,22 @@ Name: DynamicNotch
 Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.3+rootless
+Version: 1.5.4+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.3+rootless_iphoneos-arm64.deb
-Size: 702520
-MD5sum: 5d32f2f888991bf74aeac3a9f10429f7
-SHA1: d61e000a9c228cc084eb46b3649195ed9623cdb0
-SHA256: 2b8286c29fe4c4b5d713781662806ace6601f0ee106119481439dda9c6933fe9
+Filename: ./debs/com.dth.dynamicnotch_1.5.4+rootless_iphoneos-arm64.deb
+Size: 706206
+MD5sum: eafba46edd885006f15af8d47ce2d9bf
+SHA1: 1ae6464802b81204156afeed5e490372e3e92193
+SHA256: f7965a330e18ac432eb0eb8cbe8cd8fe69784424b391c62d178130d6c1322742
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
+ Phiên bản 1.5.4: tiết kiệm pin và CPU: ngừng xử lý sóng nhạc, sóng ghi âm và thanh thời gian bài hát khi tắt màn hình; ngừng các bộ đếm chạy nền khi không phát nhạc; chỉ chạy sóng ghi âm đang hiển thị; sửa vòng lặp chạy liên tục khi máy không đặt mật mã hoặc tắt notch khoá; sửa nút trả lời / từ chối cuộc gọi; notch bản đồ không còn ghi đè bộ nhớ tạm (clipboard); sửa rò rỉ khi gửi/nhận AirDrop và điểm truy cập cá nhân.
  Phiên bản 1.5.3: sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom); sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật; iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island; sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động); sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông.
  Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
 Author: HieuDuongIT

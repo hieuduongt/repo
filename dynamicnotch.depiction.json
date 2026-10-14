@@ -102,11 +102,11 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Cập nhật 1.5.3"
+          "title": "Cập nhật 1.5.4"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom).\n- Sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật.\n- iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island.\n- Sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động).\n- Sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông."
+          "markdown": "- Tiết kiệm pin và CPU: ngừng xử lý sóng nhạc, sóng ghi âm và thanh thời gian bài hát khi tắt màn hình.\n- Ngừng các bộ đếm chạy nền khi không phát nhạc.\n- Chỉ chạy sóng ghi âm đang hiển thị.\n- Sửa vòng lặp chạy liên tục khi máy không đặt mật mã hoặc tắt notch khoá.\n- Sửa nút trả lời / từ chối cuộc gọi.\n- Notch bản đồ không còn ghi đè bộ nhớ tạm (clipboard).\n- Sửa rò rỉ khi gửi/nhận AirDrop và điểm truy cập cá nhân."
         },
         {
           "class": "DepictionSeparatorView"
@@ -258,11 +258,11 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "What's new in 1.5.3"
+          "title": "What's new in 1.5.4"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Fixed the notch being offset or the wrong size when Display Zoom is enabled.\n- Corrected notch size for iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, and 16e to match the real hardware notch.\n- iPhone 15 and 15 Plus are now correctly detected as Dynamic Island devices.\n- Fixed the Camera going black on iOS 15 (music waveform still works).\n- Fixed the volume notch showing incorrectly and flickering when the volume buttons are adjusting the ringer."
+          "markdown": "- Saves battery and CPU: stops processing the music waveform, voice-recording waveform, and song progress bar when the screen is off.\n- Stops background timers when music is not playing.\n- Only runs the voice-recording waveform that is currently visible.\n- Fixed a loop that kept running when the device has no passcode or the lock notch is disabled.\n- Fixed the answer / decline call buttons.\n- Maps notch no longer overwrites the clipboard.\n- Fixed leaks when sending/receiving AirDrop and Personal Hotspot."
         },
         {
           "class": "DepictionSeparatorView"
