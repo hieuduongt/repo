@@ -43,21 +43,22 @@ Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.2+roothide
+Version: 1.5.3+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
 Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.2+roothide_iphoneos-arm64e.deb
-Size: 700230
-MD5sum: 00148adbbc2f240a70c3749cdeda3482
-SHA1: 76f6c877396a128c37e2d56bbde4c7408cee6985
-SHA256: af58a7d0b00eee2747fc642b6a394f6728787c76ef4701717eb02ce87b40ed81
+Filename: ./debs/com.dth.dynamicnotch_1.5.3+roothide_iphoneos-arm64e.deb
+Size: 701898
+MD5sum: 98ebb4e8e1a04d89948e762b28520d4b
+SHA1: c507388a78da5bfeacabe6be8d2618d7958cb23c
+SHA256: f08eac80dbd70a0d928c22d20b25348883b03a99710a8883a0474965557d7cd3
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
+ Phiên bản 1.5.3: sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom); sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật; iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island; sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động); sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông.
  Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html
@@ -65,21 +66,22 @@ Name: DynamicNotch
 Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.2+rootless
+Version: 1.5.3+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.2+rootless_iphoneos-arm64.deb
-Size: 701506
-MD5sum: 4fd1587a5ac8fcfdc58e8598b31798eb
-SHA1: 0ac48045bc256e2f453808985fe77f051301a76c
-SHA256: 36e2e6c27233a10d56ad8359da5a4a5044f40321a2bd7ab96bdee9afa53f4b32
+Filename: ./debs/com.dth.dynamicnotch_1.5.3+rootless_iphoneos-arm64.deb
+Size: 702520
+MD5sum: 5d32f2f888991bf74aeac3a9f10429f7
+SHA1: d61e000a9c228cc084eb46b3649195ed9623cdb0
+SHA256: 2b8286c29fe4c4b5d713781662806ace6601f0ee106119481439dda9c6933fe9
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
+ Phiên bản 1.5.3: sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom); sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật; iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island; sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động); sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông.
  Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
 Author: HieuDuongIT
 Depiction: https://hieuduongt.github.io/repo/dynamicnotch.html

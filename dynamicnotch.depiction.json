@@ -102,11 +102,11 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "Cập nhật 1.3.0"
+          "title": "Cập nhật 1.5.3"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Thêm notch mới cho bản đồ."
+          "markdown": "- Sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom).\n- Sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật.\n- iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island.\n- Sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động).\n- Sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông."
         },
         {
           "class": "DepictionSeparatorView"
@@ -258,11 +258,11 @@
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "What's new in 1.3.0"
+          "title": "What's new in 1.5.3"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Added a new Maps / navigation notch."
+          "markdown": "- Fixed the notch being offset or the wrong size when Display Zoom is enabled.\n- Corrected notch size for iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, and 16e to match the real hardware notch.\n- iPhone 15 and 15 Plus are now correctly detected as Dynamic Island devices.\n- Fixed the Camera going black on iOS 15 (music waveform still works).\n- Fixed the volume notch showing incorrectly and flickering when the volume buttons are adjusting the ringer."
         },
         {
           "class": "DepictionSeparatorView"
