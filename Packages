@@ -43,21 +43,22 @@ Name: BubbleMe
 Sileodepiction: https://hieuduongt.github.io/repo/bubbleme.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.4+roothide
+Version: 1.5.5+roothide
 Architecture: iphoneos-arm64e
 Maintainer: HieuDuongIT
 Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.4+roothide_iphoneos-arm64e.deb
-Size: 705824
-MD5sum: 9ae7052faa817c97afded11e1ea1fab4
-SHA1: 272e810c687f648ddcd9b39ff2614663cf44f6f1
-SHA256: 7a540a9ef3ddbedeedaaa239f2b8055aff6ad8a5dc0d6860d9af89e6cb4f71f3
+Filename: ./debs/com.dth.dynamicnotch_1.5.5+roothide_iphoneos-arm64e.deb
+Size: 705016
+MD5sum: ac09727522eb24698089741bbfe64052
+SHA1: 927c314019920c85a967c35701597c8cbb5a7ff4
+SHA256: 276cfbe7041fe7183093d93f3be02886af30767414cb4baed6ff6494a761fc03
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
+ Phiên bản 1.5.5: notch ghi âm chỉ hiện khi app Ghi âm thật sự đang thu (không còn nhầm Máy ảnh / Live Photo / tin nhắn thoại).
  Phiên bản 1.5.4: tiết kiệm pin và CPU: ngừng xử lý sóng nhạc, sóng ghi âm và thanh thời gian bài hát khi tắt màn hình; ngừng các bộ đếm chạy nền khi không phát nhạc; chỉ chạy sóng ghi âm đang hiển thị; sửa vòng lặp chạy liên tục khi máy không đặt mật mã hoặc tắt notch khoá; sửa nút trả lời / từ chối cuộc gọi; notch bản đồ không còn ghi đè bộ nhớ tạm (clipboard); sửa rò rỉ khi gửi/nhận AirDrop và điểm truy cập cá nhân.
  Phiên bản 1.5.3: sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom); sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật; iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island; sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động); sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông.
  Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
@@ -67,21 +68,22 @@ Name: DynamicNotch
 Sileodepiction: https://hieuduongt.github.io/repo/dynamicnotch.depiction.json
 
 Package: com.dth.dynamicnotch
-Version: 1.5.4+rootless
+Version: 1.5.5+rootless
 Architecture: iphoneos-arm64
 Maintainer: HieuDuongIT
 Installed-Size: 3000
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
-Filename: ./debs/com.dth.dynamicnotch_1.5.4+rootless_iphoneos-arm64.deb
-Size: 706206
-MD5sum: eafba46edd885006f15af8d47ce2d9bf
-SHA1: 1ae6464802b81204156afeed5e490372e3e92193
-SHA256: f7965a330e18ac432eb0eb8cbe8cd8fe69784424b391c62d178130d6c1322742
+Filename: ./debs/com.dth.dynamicnotch_1.5.5+rootless_iphoneos-arm64.deb
+Size: 705448
+MD5sum: ef310693944e3ec6e72e1bea43d3da0e
+SHA1: 07942c76fe56778980cc867fbc05180d5a417d7a
+SHA256: fdbbf92ac67b7289f4d67bc36878d6dbeb5afbc0d928db8d571fafa5c9092991
 Section: Tweaks
 Description: Dynamic Island cho các thiết bị tai thỏ.
  DynamicNotch mang hiệu ứng notch động tương tự như dynamic island của Apple.
+ Phiên bản 1.5.5: notch ghi âm chỉ hiện khi app Ghi âm thật sự đang thu (không còn nhầm Máy ảnh / Live Photo / tin nhắn thoại).
  Phiên bản 1.5.4: tiết kiệm pin và CPU: ngừng xử lý sóng nhạc, sóng ghi âm và thanh thời gian bài hát khi tắt màn hình; ngừng các bộ đếm chạy nền khi không phát nhạc; chỉ chạy sóng ghi âm đang hiển thị; sửa vòng lặp chạy liên tục khi máy không đặt mật mã hoặc tắt notch khoá; sửa nút trả lời / từ chối cuộc gọi; notch bản đồ không còn ghi đè bộ nhớ tạm (clipboard); sửa rò rỉ khi gửi/nhận AirDrop và điểm truy cập cá nhân.
  Phiên bản 1.5.3: sửa notch lệch, sai cỡ khi bật thu phóng màn hình (Display Zoom); sửa kích thước notch cho iPhone XR, 11, 12, 12 Pro, 12 Pro Max, 12 mini, 13 mini, 16e theo đúng tai thỏ thật; iPhone 15 và 15 Plus được nhận đúng là máy Dynamic Island; sửa lỗi Camera bị đen trên iOS 15 (sóng nhạc vẫn hoạt động); sửa lỗi notch âm lượng hiển thị sai và nhấp nháy khi nút âm lượng đang chỉnh chuông.
  Phiên bản 1.5.2: cập nhật thêm công cụ báo lỗi trực tuyến (mô tả lỗi và gửi thẳng cho tác giả ngay trong cài đặt) và thông tin liên hệ (Facebook, Telegram, Zalo).
